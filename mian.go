@@ -12,6 +12,12 @@ func main() {
 	//basic.Goroutine()
 	//basic.PrintWithchannel()
 	//basic.CG()
-	basic.SimpleCg()
+	//basic.SimpleCg()
+	//basic.Interfance1()
+	//basic.Interfance2()
+	basic.Channel1()
+	basic.Channel2()
+	basic.Sync1()
+	basic.Sync2()
 
 }
