@@ -19,5 +19,6 @@ func main() {
 	basic.Channel2()
 	basic.Sync1()
 	basic.Sync2()
+	basic.Sync2()
 
 }
